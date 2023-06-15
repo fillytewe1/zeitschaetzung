@@ -1,0 +1,10 @@
+C:\Users\tewelde\source\repos\Zeitschätzung\Zeitschätzung\bin\Debug\Zeitschätzung.exe.config
+C:\Users\tewelde\source\repos\Zeitschätzung\Zeitschätzung\bin\Debug\Zeitschätzung.exe
+C:\Users\tewelde\source\repos\Zeitschätzung\Zeitschätzung\bin\Debug\Zeitschätzung.pdb
+C:\Users\tewelde\source\repos\Zeitschätzung\Zeitschätzung\obj\Debug\Zeitschätzung.csprojAssemblyReference.cache
+C:\Users\tewelde\source\repos\Zeitschätzung\Zeitschätzung\obj\Debug\Zeitschätzung.Form1.resources
+C:\Users\tewelde\source\repos\Zeitschätzung\Zeitschätzung\obj\Debug\Zeitschätzung.Properties.Resources.resources
+C:\Users\tewelde\source\repos\Zeitschätzung\Zeitschätzung\obj\Debug\Zeitschätzung.csproj.GenerateResource.cache
+C:\Users\tewelde\source\repos\Zeitschätzung\Zeitschätzung\obj\Debug\Zeitschätzung.csproj.CoreCompileInputs.cache
+C:\Users\tewelde\source\repos\Zeitschätzung\Zeitschätzung\obj\Debug\Zeitschätzung.exe
+C:\Users\tewelde\source\repos\Zeitschätzung\Zeitschätzung\obj\Debug\Zeitschätzung.pdb

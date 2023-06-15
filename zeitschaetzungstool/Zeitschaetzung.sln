@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeitschaetzung", "Zeitschätzung\Zeitschaetzung.csproj", "{CC408511-E0FC-4700-B595-D62EBBB103D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC408511-E0FC-4700-B595-D62EBBB103D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC408511-E0FC-4700-B595-D62EBBB103D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC408511-E0FC-4700-B595-D62EBBB103D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC408511-E0FC-4700-B595-D62EBBB103D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03E1FABB-A55B-432E-9A01-1617AE6EE61E}
+	EndGlobalSection
+EndGlobal
